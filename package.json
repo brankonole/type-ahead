@@ -1,0 +1,25 @@
+{
+  "name": "sportklub",
+  "version": "1.0.0",
+  "description": "Sportklub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nole",
+  "license": "ISC",
+  "repository": "",
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-install": "^0.6.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "*",
+    "gulp-sourcemaps": "^1.6.0"
+  },
+  "dependencies": {
+    "gulp-install": "^0.6.0"
+  }
+}
